@@ -1,5 +1,6 @@
 # 🎯 Modern Quiz Application
 
+
 A sleek, interactive command-line quiz application written in C that features a modern UI design and cross-platform compatibility.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
