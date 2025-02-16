@@ -107,3 +107,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by modern CLI applications
 - Built with cross-platform compatibility in mind
 - Designed for educational purposes
+
